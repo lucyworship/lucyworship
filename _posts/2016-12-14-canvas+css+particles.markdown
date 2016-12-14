@@ -7,7 +7,7 @@ categories:
 description: "canvas+css打造的可以点击的粒子效果"
 image: https://unsplash.it/2000/1200?image=1003
 image-sm: https://unsplash.it/500/300?image=1003
-url: https://lucyworship.github.io/canvas-css-particles/
+src: https://lucyworship.github.io/canvas-css-particles/
 ---
 前几天被要求写一个随机的可以点击的粒子背景图，本来用canvas写了一个粒子的随机运动，但是canvas里的粒子是很难去加链接的，我思考了一番想到了一个方法
 
